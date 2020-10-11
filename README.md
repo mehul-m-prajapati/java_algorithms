@@ -1,1 +1,6 @@
-# java_algorithms
+### Generic algorithms
+
+#### Topics
+- Sorting
+- Searching
+- Graph
